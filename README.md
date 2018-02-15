@@ -10,4 +10,6 @@ Build it:
 `docker build -t linux_tweet_app .`
 
 Run it:
-`docker container run --detach -p 80:80 linux_tweet_app`
+`docker container run --detach -p 80:80 linux_tweet_app
+
+[![Build Status](https://travis-ci.org/igorz88/autobuilds.svg?branch=master)](https://travis-ci.org/igorz88/autobuilds)
